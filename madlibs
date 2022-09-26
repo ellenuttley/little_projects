@@ -6,7 +6,7 @@ while True:
     your_day_x = ("good", "bad", "beautiful", "harrowing", "boring", "normal", "amazing", "stressful", "fantastical", "stupendous")
     favourite_place_x = ("the nail salon", "disneyland", "the aquarium", "the museum", "the ice rink", "the soda hop", "the cinema", "the pub")
     favourite_person_x = ("Grandma", "Mr T", "Professor X", "Chris Hemsworth", "Harry Potter", "Santa Claus", "Spiderman", "Bob Ross", "Mark Zuckerbergs Mum")
-    something_scary_x = ("cows", "spiders", "vampires", "zombies", "rabid dogs", "rotten fish", "go-go boots", "rotten eggs", "Mark Zuckerbergs", "")
+    something_scary_x = ("cows", "spiders", "vampires", "zombies", "rabid dogs", "rotten fish", "go-go boots", "rotten eggs", "Mark Zuckerbergs",)
     time_of_day_x = ("morning", "night time", "dinner time", "tea time", "breakfast time", "twilight", "dusk", "sunrise", "sunset")
     animal_x = ("crocodile", "dinosaur", "goat", "snake", "komodo dragon", "racoon", "red panda", "sloth", "tiger", "hippo", "alley cat", "bear", "yeti")
     something_deep_x = ("quarry", "void", "black hole", "vortex", "well", "river", "hellish pit")
