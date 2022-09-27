@@ -12,6 +12,20 @@ def guess(x):
     
     print(f"Yayy! {random_number} is correct!")
         
+<<<<<<< HEAD
 
 guess(10)
  
+=======
+def computer_guess(x):
+    low = 1
+    high = x
+    feedback = ""
+    while feedback != 'c':
+        guess = random.rantint(low,high)
+        
+
+
+guess(10)
+ 
+>>>>>>> 4ac2b38119bb01f33193372df5602a013473da94
